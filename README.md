@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,c,cpp,js,react,nextjs,nodejs,linux,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,js,react,nextjs,nodejs,linux,git)
 ### 👨‍💻 Languages
 - JavaScript
 - Python
