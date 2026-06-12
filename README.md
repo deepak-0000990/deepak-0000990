@@ -1,243 +1,171 @@
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Deepak%20Kumar%20Panigrahi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:7C3AED,100:312E81&text=Deepak%20Kumar%20Panigrahi&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Digital+Products" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Developer;Full+Stack+Engineer;Building+Real+World+Applications;AI+%26+Product+Focused+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
+![CSE](https://img.shields.io/badge/Computer%20Science%20Engineer-8B5CF6?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%20%2F%20ML-Enthusiast-7C3AED?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-6366F1?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/Location-Odisha%2C%20India-4F46E5?style=for-the-badge)
 
 <br/>
-
-![](https://img.shields.io/badge/B.Tech-Engineering-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Software-Engineering-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/AI%2FML-Enthusiast-A855F7?style=for-the-badge)
-
-![](https://img.shields.io/badge/Location-India-6366F1?style=for-the-badge)
-
-<br/>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deepak-kumar-panigrahi-578b83385/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/your-github-username?style=for-the-badge&color=4F46E5)
-
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=A855F7)
 
 </div>
 
 ---
 
-# About
+# About Me
 
-Software Developer focused on designing, building, and scaling real-world applications with a strong engineering mindset. Passionate about creating products that solve meaningful problems through modern software architecture, clean code practices, and efficient system design.
+Software Engineer passionate about designing scalable systems, building impactful products, and solving real-world engineering challenges. I enjoy transforming ideas into reliable software solutions through clean architecture, modern development practices, and continuous learning.
 
-My interests span across Full Stack Development, Backend Engineering, Artificial Intelligence, Cloud Technologies, API Development, Data Engineering, and Product-Oriented Software Systems.
+My interests span across Full Stack Development, Artificial Intelligence, Machine Learning, Backend Engineering, Cloud Technologies, and Open Source Contributions.
 
-I enjoy transforming ideas into production-ready applications while continuously learning advanced engineering concepts and industry best practices.
+With a strong foundation in software development and problem-solving, I focus on creating applications that are performant, secure, maintainable, and user-centric.
 
 ### Open To
 
-- Software Development Internships
-- Full Stack Development Roles
-- Backend Engineering Opportunities
+- Software Engineering Roles
+- Full Stack Development
+- Backend Engineering
+- AI/ML Projects
 - Open Source Collaboration
-- AI & Machine Learning Projects
-- Product Engineering Teams
+- Product Engineering Opportunities
+- Internship & Graduate Programs
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
-### Frontend
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
 </p>
 
-### Backend & Databases
+## Backend & Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase" />
 </p>
 
-### Cloud, DevOps & Tooling
+## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vercel,netlify,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,vscode,bash" />
 </p>
 
 ---
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Machine Learning | Intermediate | Model training, evaluation and deployment |
-| Generative AI | Intermediate | LLM applications and AI-powered products |
-| Data Analysis | Intermediate | Data cleaning, transformation and visualization |
-| Python Ecosystem | Advanced | NumPy, Pandas, APIs and automation |
-| AI Product Engineering | Intermediate | AI integration into web applications |
-| Prompt Engineering | Advanced | Structured prompt design and optimization |
-
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Enterprise Weather Intelligence Platform</b></summary>
+<summary><b>Task Manager Application</b></summary>
 
-Real-time weather monitoring and forecasting platform built with modern backend architecture.
+### Overview
 
-| Category | Details |
-|-----------|-----------|
-| Stack | FastAPI, Python, REST APIs |
-| Scale | Multi-region API Architecture |
-| Performance | Optimized Response Pipelines |
-| Security | API Key Authentication |
-| Impact | Real-Time Weather Insights |
-| Repository | Add Repository Link |
-
-Production-grade backend focused on reliability, performance, and maintainability.
-
-</details>
-
-<details>
-<summary><b>AI Powered Productivity Suite</b></summary>
-
-Modern AI-integrated platform designed to improve productivity and workflow automation.
+Enterprise-grade task management platform featuring authentication, task scheduling, productivity tracking, and REST API architecture.
 
 | Category | Details |
-|-----------|-----------|
-| Stack | React, Node.js, AI APIs |
+|-----------|----------|
+| Stack | React, Node.js, Express, MongoDB |
 | Scale | Multi-user Architecture |
-| Performance | Fast Client-Side Rendering |
-| Security | Secure Authentication |
-| Impact | Enhanced User Productivity |
-| Repository | Add Repository Link |
-
-Focused on intelligent automation and exceptional user experience.
-
-</details>
-
-<details>
-<summary><b>Full Stack SaaS Platform</b></summary>
-
-Scalable SaaS application implementing modern software engineering practices.
-
-| Category | Details |
-|-----------|-----------|
-| Stack | MERN Stack |
-| Scale | Cloud Ready |
-| Performance | Optimized Queries |
+| Performance | Optimized API Response Handling |
 | Security | JWT Authentication |
-| Impact | Business Automation |
-| Repository | Add Repository Link |
+| Impact | Productivity Enhancement |
+| Repository | Private / GitHub |
 
-Built using modular architecture and production-ready deployment practices.
+### Professional Summary
+
+Designed and developed a full-stack productivity platform supporting task creation, updates, reminders, and authentication workflows. Implemented scalable backend services and responsive frontend interfaces to deliver a seamless user experience.
 
 </details>
 
 <details>
-<summary><b>System Design Learning Hub</b></summary>
+<summary><b>Weather Dashboard</b></summary>
 
-Interactive platform for exploring software architecture and distributed systems.
+### Overview
+
+Real-time weather intelligence platform providing forecasts, geolocation support, weather insights, and responsive user experiences.
 
 | Category | Details |
-|-----------|-----------|
-| Stack | React, Node.js |
-| Scale | Educational Platform |
-| Performance | Optimized Assets |
-| Security | Secure APIs |
-| Impact | Engineering Education |
-| Repository | Add Repository Link |
+|-----------|----------|
+| Stack | React, JavaScript, Weather API |
+| Scale | Public Weather Application |
+| Performance | Fast API Integration |
+| Security | API Key Protection |
+| Impact | Real-time Forecast Accessibility |
+| Repository | GitHub |
 
-Focused on helping developers understand large-scale system design concepts.
+### Professional Summary
+
+Developed a weather analytics dashboard with dynamic UI updates, geolocation-based recommendations, forecast visualization, and responsive design across devices.
+
+</details>
+
+<details>
+<summary><b>AI Resume Analyzer</b></summary>
+
+### Overview
+
+AI-powered platform that evaluates resumes, identifies skill gaps, and generates actionable recommendations.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Python, FastAPI, OpenAI API |
+| Scale | Multi-user SaaS Concept |
+| Performance | Automated Analysis Pipeline |
+| Security | Secure Data Processing |
+| Impact | Career Optimization |
+| Repository | GitHub |
+
+### Professional Summary
+
+Engineered an intelligent application capable of analyzing resumes, extracting skills, identifying opportunities, and providing AI-assisted career insights.
+
+</details>
+
+<details>
+<summary><b>Full Stack E-Commerce Platform</b></summary>
+
+### Overview
+
+Scalable online commerce solution with authentication, payments, inventory management, and order tracking.
+
+| Category | Details |
+|-----------|----------|
+| Stack | MERN Stack |
+| Scale | Enterprise Ready |
+| Performance | Optimized Queries |
+| Security | JWT + Role-Based Access |
+| Impact | Business Growth Enablement |
+| Repository | GitHub |
+
+### Professional Summary
+
+Built a complete commerce ecosystem supporting customers, administrators, products, inventory management, and secure purchasing workflows.
 
 </details>
 
 ---
 
-# Experience
-
-## Software Developer
-
-**Independent Projects & Open Source Contributions**  
-**2024 - Present**
-
-Designing and developing modern web applications while focusing on software architecture, scalability, and product engineering.
-
-### Scope of Work
-
-- Developing full stack applications
-- Building scalable REST APIs
-- Learning distributed systems
-- Implementing AI integrations
-- Creating production-ready projects
-- Exploring cloud-native technologies
-
 ### Skills
 
-`React` `Node.js` `MongoDB` `Express.js` `Python` `FastAPI` `Git` `GitHub` `System Design`
+`React` `Node.js` `MongoDB` `Python` `FastAPI` `Git` `Linux` `JavaScript`
 
 ---
 
 # Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|----------|
-| Open Source Contributor | Actively building and publishing projects |
-| Full Stack Developer | Working across frontend and backend systems |
-| Continuous Learner | Focused on software engineering excellence |
-| AI Enthusiast | Exploring modern AI applications |
-| Product Builder | Developing real-world applications |
-
-</div>
-
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certifications-0056D2?style=for-the-badge)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco)
 
 ---
 
@@ -245,20 +173,20 @@ Designing and developing modern web applications while focusing on software arch
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
 
 </div>
@@ -269,31 +197,22 @@ Designing and developing modern web applications while focusing on software arch
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
 ---
 
 # Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -303,7 +222,7 @@ Designing and developing modern web applications while focusing on software arch
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/your-github-username/your-github-username/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -314,44 +233,23 @@ Designing and developing modern web applications while focusing on software arch
 ```yaml
 Learning:
   - System Design
+  - Cloud Computing
+  - AI Engineering
   - Distributed Systems
-  - Cloud Architecture
-  - Advanced Backend Engineering
 
 Building:
-  - Real World Applications
-  - AI Powered Products
-  - Full Stack SaaS Platforms
+  - Full Stack Applications
+  - AI-Powered Products
+  - Developer Tools
 
 Exploring:
-  - Machine Learning
-  - DevOps
+  - MLOps
+  - Kubernetes
+  - Microservices
   - Scalable Architectures
 
 Open_To:
-  - Internships
   - Software Engineering Roles
   - Open Source Collaboration
-  - Product Development
-````
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">Email</a> • <a href="https://www.linkedin.com/in/deepak-kumar-panigrahi-578b83385/">LinkedIn</a> • <a href="https://github.com/your-github-username">GitHub</a> • <a href="#">Portfolio</a>
-
-</div>
-
----
-
-<div align="center">
-
-> Engineering products with scalability, reliability, and long-term impact.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7" width="100%" />
-
-</div>
-```
+  - Freelance Projects
+  - AI/ML Opportunities
